@@ -4,5 +4,3 @@ Small React ABTest component to mount/unmount based on a given ID, the ID is goi
 
 Reference
 - https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
-
-
